@@ -192,7 +192,7 @@ body {
     margin-bottom:15px;
     margin-left: 5%;
     margin-right: 5%;
-    width:80%;
+    width:90%;
     background:#eee;
     height:35px;
     border-radius:3px;
@@ -216,7 +216,7 @@ body {
     left:0;
     width:30%;
     font-weight:bold;
-    font-size:1vw;
+    font-size:2vh;
     color:#ffffff;
     background:#6adcfa;
     -webkit-border-top-left-radius:3px;
