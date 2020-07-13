@@ -109,6 +109,8 @@ function removeUpload() {
   $('#result-area').empty();
   $('.notice-message').show();
   $('#spinner').hide();
+  $("#percent-text").empty();
+  $("#percent-notice").empty();
 }
 $('.image-upload-wrap').bind('dragover', function () {
   $('.image-upload-wrap').addClass('image-dropping');
